@@ -1,24 +1,8 @@
-# README
+# Ruby Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Ruby version: 3.3.4
 
-Things you may want to cover:
+# Reference
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Ruby in Twenty Minutes - Ruby](https://www.ruby-lang.org/en/documentation/quickstart/)
+- [Getting Started with Rails - Rails Guide](https://guides.rubyonrails.org/v5.0/getting_started.html)
